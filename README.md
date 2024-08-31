@@ -13,3 +13,5 @@
 - 📖 Web Development Student
 - 🎮 Entusiasta da Tecnologia...
 - 🤓 e leitor nas horas vagas. :)
+
+Obrigado pela visita!
