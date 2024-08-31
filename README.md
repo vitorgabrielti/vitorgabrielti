@@ -1,6 +1,6 @@
 ### Opa! Sou Vitor🫡
 
-🖥️ Desenvolvimento Web - Full Stack 🏠 Brazilian 🌎 Maceió-AL ✈️ Brazil
+🖥️ Desenvolvimento Web/Mobile 🏠 Brazilian 🌎 Maceió-AL ✈️ Brazil
 
 
 ## Encontre-me por aqui 🌎
@@ -9,7 +9,7 @@
 
  
 
-- 💻 UI/UX | Full Stack
+- 💻 UI/UX
 - 📖 Mobile and Web Development Student
 - 🎮 Entusiasta da Tecnologia...
 - 🤓 e leitor nas horas vagas. :)
