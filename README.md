@@ -1,6 +1,6 @@
 ### Opa! Sou Vitor🫡
 
-🖥️ Desenvolvimento Web - Full Stack 🏠 Brazilian 🌎 Maceió ✈️ Brazil
+🖥️ Desenvolvimento Web - Full Stack 🏠 Brazilian 🌎 Maceió-AL ✈️ Brazil
 
 
 ## Encontre-me por aqui 🌎
