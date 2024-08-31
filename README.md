@@ -10,7 +10,7 @@
  
 
 - 💻 UI/UX | Full Stack
-- 📖 Web Development Student
+- 📖 Mobile and Web Development Student
 - 🎮 Entusiasta da Tecnologia...
 - 🤓 e leitor nas horas vagas. :)
 
