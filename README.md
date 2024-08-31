@@ -4,8 +4,8 @@
 
 
 ## Encontre-me por aqui 🌎
-[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google.com.br)
-[![Gmail](https://img.shields.io/badge/Gmailh-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.google.com.br)
+[![Linkdin](https://img.shields.io/badge/VitorGabriel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google.com.br)
+[![Gmail](https://img.shields.io/badge/vitorgabrields34@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.google.com.br)
 
  
 https://www.instagram.com/vitorgabriel.frs?igsh=MXM4NGkzdHlzZXlycg==
