@@ -10,7 +10,7 @@
  
 
 - 💻 UI/UX
-- 📖 Mobile and Web Development Student
+- 📖 Web Development Student
 - 🎮 Entusiasta da Tecnologia...
 - 🤓 e leitor nas horas vagas. :)
 
